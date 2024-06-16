@@ -29,7 +29,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/veed-pricing-page.git
+   git clone https://github.com/RajdeepDas43/veed-pricing-page.git
    cd veed-pricing-page
    ```
 
@@ -130,10 +130,3 @@ Contains static assets such as images.
 ## Contributing
 
 Please feel free to submit issues, fork the repository, and send pull requests!
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-This `README.md` file provides a clear and detailed guide for setting up the project, including prerequisites, installation instructions, running the development server, building for production, and deploying the project. It also includes a project structure section to help users understand the organization of the project files.
