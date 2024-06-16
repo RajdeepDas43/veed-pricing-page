@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file to guide users on how to set up the project on their local machine. This README file includes instructions for cloning the repository, installing dependencies, running the development server, and deploying the project.
-
-```markdown
 # Veed Pricing Page
 
 This project is a clone of the Veed.io Pricing Page using Next.js and Mantine UI framework. The functionality replicates the pricing page up to the "Trusted by teams at" slider. This project uses parallax effects for background images.
